@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "./static/css/main.b053c1d7.chunk.css",
-    "main.js": "./static/js/main.ef3b13dc.chunk.js",
-    "main.js.map": "./static/js/main.ef3b13dc.chunk.js.map",
+    "main.js": "./static/js/main.d87d22e8.chunk.js",
+    "main.js.map": "./static/js/main.d87d22e8.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.330dba63.js",
     "runtime-main.js.map": "./static/js/runtime-main.330dba63.js.map",
-    "static/js/2.94096db6.chunk.js": "./static/js/2.94096db6.chunk.js",
-    "static/js/2.94096db6.chunk.js.map": "./static/js/2.94096db6.chunk.js.map",
+    "static/js/2.128605cb.chunk.js": "./static/js/2.128605cb.chunk.js",
+    "static/js/2.128605cb.chunk.js.map": "./static/js/2.128605cb.chunk.js.map",
     "index.html": "./index.html",
     "static/css/main.b053c1d7.chunk.css.map": "./static/css/main.b053c1d7.chunk.css.map",
-    "static/js/2.94096db6.chunk.js.LICENSE.txt": "./static/js/2.94096db6.chunk.js.LICENSE.txt",
+    "static/js/2.128605cb.chunk.js.LICENSE.txt": "./static/js/2.128605cb.chunk.js.LICENSE.txt",
     "static/media/SwiperSlider.scss": "./static/media/nextArrowDisabled.687dea93.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.330dba63.js",
-    "static/js/2.94096db6.chunk.js",
+    "static/js/2.128605cb.chunk.js",
     "static/css/main.b053c1d7.chunk.css",
-    "static/js/main.ef3b13dc.chunk.js"
+    "static/js/main.d87d22e8.chunk.js"
   ]
 }
