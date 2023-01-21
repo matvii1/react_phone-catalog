@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "./static/css/main.2d8bce2d.chunk.css",
+    "main.css": "./static/css/main.19bbd3d8.chunk.css",
     "main.js": "./static/js/main.f5931d6a.chunk.js",
     "main.js.map": "./static/js/main.f5931d6a.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.330dba63.js",
@@ -8,14 +8,14 @@
     "static/js/2.abf4cc90.chunk.js": "./static/js/2.abf4cc90.chunk.js",
     "static/js/2.abf4cc90.chunk.js.map": "./static/js/2.abf4cc90.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.2d8bce2d.chunk.css.map": "./static/css/main.2d8bce2d.chunk.css.map",
+    "static/css/main.19bbd3d8.chunk.css.map": "./static/css/main.19bbd3d8.chunk.css.map",
     "static/js/2.abf4cc90.chunk.js.LICENSE.txt": "./static/js/2.abf4cc90.chunk.js.LICENSE.txt",
     "static/media/SwiperSlider.scss": "./static/media/nextArrowDisabled.687dea93.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.330dba63.js",
     "static/js/2.abf4cc90.chunk.js",
-    "static/css/main.2d8bce2d.chunk.css",
+    "static/css/main.19bbd3d8.chunk.css",
     "static/js/main.f5931d6a.chunk.js"
   ]
 }
